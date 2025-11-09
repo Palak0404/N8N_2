@@ -1,0 +1,42 @@
+{
+  "app_name": {
+    "defaultMessage": "Canva Poster Automation",
+    "description": "Displayed as the app name in the Canva App Directory."
+  },
+  "welcome_message": {
+    "defaultMessage": "Welcome to Canva Poster Automation!",
+    "description": "Shown when a user opens the app inside Canva."
+  },
+  "connect_canva_button": {
+    "defaultMessage": "Connect Canva Account",
+    "description": "Button text for linking Canva account via API."
+  },
+  "upload_design_button": {
+    "defaultMessage": "Upload Template Design",
+    "description": "Button for selecting or uploading a Canva poster template."
+  },
+  "generate_posters_button": {
+    "defaultMessage": "Generate Posters",
+    "description": "Button to trigger automated poster generation using n8n workflow."
+  },
+  "workflow_status_running": {
+    "defaultMessage": "Workflow is running...",
+    "description": "Displayed while the automation is executing."
+  },
+  "workflow_status_completed": {
+    "defaultMessage": "Poster generated successfully!",
+    "description": "Shown when Canva poster automation finishes successfully."
+  },
+  "workflow_status_failed": {
+    "defaultMessage": "Something went wrong. Please check your API connection.",
+    "description": "Displayed when an error occurs during automation."
+  },
+  "download_poster_button": {
+    "defaultMessage": "Download Poster",
+    "description": "Button text to download generated Canva posters."
+  },
+  "reset_workflow_button": {
+    "defaultMessage": "Reset Workflow",
+    "description": "Button text to reset form and start a new automation."
+  }
+}
